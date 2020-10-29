@@ -10,4 +10,6 @@ public class Main {
     static void MySecondMethod() {
         System.out.println("I created a second method");
     }
+
+    String X = "Not sure what to force push";
 }
