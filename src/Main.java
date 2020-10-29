@@ -21,4 +21,7 @@ public class Main {
     }
 
     String X = "Not sure what to force push";
+    String firstCommit = "First Commit";
+    String secondCommit = "Second Commit";
+    String thirdCommit = "Third Commit";
 }
