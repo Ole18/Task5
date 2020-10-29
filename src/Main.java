@@ -17,4 +17,5 @@ public class Main {
     String thirdCommit = "Third Commit";
     String fourthCommit = "Fourth Commit";
     String fifthCommit = "Fifth Commit";
+    String sixthCommit = "Sixth Commit";
 }
