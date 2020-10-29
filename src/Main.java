@@ -12,4 +12,13 @@ public class Main {
     static void myFourthMethod () {
         System.out.println("This is the fourth method");
     }
+
+    static void MyMethod() {
+        System.out.println("I created one method");
+    }
+    static void MySecondMethod() {
+        System.out.println("I created a second method");
+    }
+
+    String X = "Not sure what to force push";
 }
